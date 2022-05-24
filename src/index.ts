@@ -1,1 +1,3 @@
-// console.log("Start !");
+alert("Olá");
+
+export {};
