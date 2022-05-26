@@ -1,3 +1,3 @@
-alert("Olá");
+alert("All Setted !");
 
 export {};
